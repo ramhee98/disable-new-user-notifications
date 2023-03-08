@@ -1,6 +1,6 @@
 <?php
 /**
-* Plugin Name: Disable New User Notification
+* Plugin Name: Disable New User Notifications
 * Plugin URI: https://github.com/ramhee98/disable-new-user-notifications
 * Description: This Plugin disables Wordpress sending an email to the Admin when a new User is created.
 * Version: 1.0
